@@ -40,3 +40,4 @@ print("Середня кількість кроків:", average_steps)
 end_time = time.time()
 
 print("Час виконання:", end_time - start_time)
+
